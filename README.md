@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NandaChaves
-- 👀 I’m interested in HTML,CSS,Javascript, Java, Graphic animation
+- 👀 I’m interested in HTML,CSS,Javascript, Java, Blender, Maya
 - 🌱 I’m currently learning Python, Blender
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
