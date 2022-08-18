@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NandaChaves
 - 👀 I’m interested in Full stack development and animation 2d, 3d.
-- 🌱 I’m currently learning OpenCV, Blender, Unity, Node.js, Asp.net MVC, SQL Server
-- 💞️ I’m looking to collaborate on Web Development, Web design
+- 🌱 I’m currently learning OpenCV, Blender, Unity, Node.js, Asp.net MVC, SQL Server, Angular and Node.Js
+- 💞️ I’m looking to collaborate on Web Development, Web design or as a FullStack Developer
 - 📫 How to reach me 
 
 <!---
