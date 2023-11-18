@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NandaChaves
 - 👀 I’m interested in Full stack development and animation 2d, 3d.
-- 🌱 I’m currently learning OpenCV, Blender, Unity, Node.js, Asp.net MVC, SQL Server, Angular.
+- 🌱 I’m currently learning Blender, Node.js and Angular.
 - 💞️ I’m looking to collaborate on Web Development, Web design or as a FullStack Developer
 - 📫 How to reach me 
 
@@ -30,6 +30,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Nanda-Blender" height="30" width="40" src="https://devicon-website.vercel.app/api/blender/original.svg">
   <img align="center" alt="Nanda-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="Nanda-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
+  
   ![Snake animation](https://github.com/NandaChaves/NandaChaves/blob/output/github-contribution-grid-snake.svg)
 </div>
 
