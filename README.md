@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NandaChaves
 - 👀 I’m interested in Full stack development and animation 2d, 3d.
-- 🌱 I’m currently learning Blender, Node.js and Angular.
+- 🌱 I’m currently learning Threejs to combine with Blender 3d, Node.js and Angular.
 - 💞️ I’m looking to collaborate on Web Development, Web design or as a FullStack Developer
 - 📫 How to reach me 
 
