@@ -36,6 +36,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Nanda-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
 </div>
 
-![snake gif](https://github.com/NandaChaves/NandaChaves/blob/output/github-contribution-grid-snake.gif)
+![Generate Snake](https://github.com/NandaChaves/NandaChaves/blob/output/github-contribution-grid-snake.svg)
 
   
