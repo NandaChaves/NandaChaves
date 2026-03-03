@@ -36,6 +36,12 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Nanda-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg">
 </div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,angular,blender,bootstrap,cs,css,express,figma,firebase,flask,git,ai,java,js,jquery,nodejs" />
+  </a>
+</p>
+
 ![Generate Snake](https://github.com/NandaChaves/NandaChaves/blob/output/github-contribution-grid-snake.svg)
 
   
