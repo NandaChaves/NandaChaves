@@ -20,6 +20,8 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 ![Generate Snake](https://github.com/NandaChaves/NandaChaves/blob/output/github-contribution-grid-snake.svg)
 
   
