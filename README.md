@@ -1,3 +1,8 @@
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
 
 - 👋 Hi, I’m @NandaChaves
 - 👀 I’m interested in Full stack development and animation 2d, 3d.
