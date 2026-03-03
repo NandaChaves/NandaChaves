@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<br />
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NandaChaves/NandaChaves/output/pacman-contribution-graph-dark.svg">
