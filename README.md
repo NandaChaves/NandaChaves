@@ -19,6 +19,10 @@
 
 ###
 
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,css,html,js,react,figma,firebase,flask,java,jquery,mysql,nodejs,php,express,ps,ai,py,threejs,ts,vercel,vite,tailwind,vscode,visualstudio,dotnet,bootstrap,blender,angular,canva" />
