@@ -3,7 +3,6 @@
 - 👀 I’m interested in Full stack development and animation 2d, 3d.
 - 🌱 I’m currently learning Blender, React js and Node.js.
 - 💞️ I’m looking to collaborate on Web Development, Web design or as a FullStack Developer
-- 📫 How to reach me 
 
 <br />
 
