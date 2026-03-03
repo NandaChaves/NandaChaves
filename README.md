@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 - 👋 Hi, I’m @NandaChaves
 - 👀 I’m interested in Full stack development and animation 2d, 3d.
 - 🌱 I’m currently learning Blender, React js and Node.js.
