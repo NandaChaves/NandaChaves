@@ -22,5 +22,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
+<br />
+
 ![Generate Snake](https://raw.githubusercontent.com/NandaChaves/NandaChaves/output/github-contribution-grid-snake.svg)
   
