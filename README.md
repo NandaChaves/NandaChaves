@@ -41,6 +41,14 @@
   </a>
 </p>
 
+###
+
+<h3 align="left">Top Languages</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandaChaves&layout=compact&theme=dracula&hide_border=false&langs_count=8" alt="Linguagens mais usadas" />
+</div>
+
 ### 👾 My GitHub Contribution Pacman
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NandaChaves/NandaChaves/output/pacman-contribution-graph.svg">
