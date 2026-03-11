@@ -29,6 +29,10 @@
   <img src="https://streak-stats.demolab.com?user=NandaChaves&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandaChaves&layout=compact&theme=dracula&hide_border=false&langs_count=8" alt="Linguagens mais usadas" />
+</div>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -41,13 +45,6 @@
   </a>
 </p>
 
-###
-
-<h3 align="left">Top Languages</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandaChaves&layout=compact&theme=dracula&hide_border=false&langs_count=8" alt="Linguagens mais usadas" />
-</div>
 
 ### 👾 My GitHub Contribution Pacman
 <picture>
