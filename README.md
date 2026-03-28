@@ -1,7 +1,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
+- 🧑‍🏫 Bachelor's in Computer Science
 - 👋 Hi, I’m @NandaChaves
 - 👀 I’m interested in Full stack development and animation 2d, 3d.
 - 🌱 I’m currently learning Next.js and Docker.
