@@ -4,7 +4,7 @@
 - 🧑‍🏫 Bachelor's in Computer Science
 - 👋 Hi, I’m @NandaChaves
 - 👀 I’m interested in Full stack development and animation 2d, 3d.
-- 🌱 I’m currently learning Next.js and Docker.
+- 🌱 I’m currently learning Next.js, Jest and Docker.
 - 💞️ I’m looking to collaborate on Web Development, Web design or as a FullStack Developer
 
 
