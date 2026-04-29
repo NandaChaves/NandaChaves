@@ -1,8 +1,9 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Fernanda Fortes
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 - 🧑‍🏫 Bachelor's in Computer Science
-- 👋 Hi, I’m @NandaChaves
 - 👀 I’m interested in Full stack development and animation 2d, 3d.
 - 🌱 I’m currently learning Next.js, Jest and Docker.
 - 💞️ I’m looking to collaborate on Web Development, Web design or as a FullStack Developer
