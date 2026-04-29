@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ###
 - 🧑‍🏫 Bachelor's in Computer Science
 - 👀 I’m interested in Full stack development and animation 2d, 3d.
-- 🌱 I’m currently learning Next.js, Jest and Docker.
+- 🌱 I’m currently learning Docker, Azure Devops, Next.js, Jest. And I also love 3d, so I'm honing my skills in Blender 3D.
 - 💞️ I’m looking to collaborate on Web Development, Web design or as a FullStack Developer
 
 
