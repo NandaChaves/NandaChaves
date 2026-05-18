@@ -18,6 +18,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://www.instagram.com/3d_fullstack/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
 </a>
+<a href="https://buymeacoffee.com/3dfullstack/extras" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="25" alt="Buy Me A Coffee logo" />
+</a>
 </div>
 
 ###
