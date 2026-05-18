@@ -22,7 +22,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="25" alt="Buy Me A Coffee logo" />
 </a>
 <a href="https://www.youtube.com/@FernandaChavis" target="_blank">
-  <img src="https://youtube.com" height="25" alt="Buy Me A Coffee logo" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" alt="Youtube logo" />
 </a>
 </div>
 
