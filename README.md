@@ -1,5 +1,12 @@
-<div align="left">
-  <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width="50px" style="vertical-align: middle;"> Fernanda Fortes</h1>
+<div align="center">
+  <a href="https://portfolio3d-ebon.vercel.app/">
+    <img src="assets/banner.png" alt="Meu Banner" width="100%">
+  </a>
+</div>
+
+
+<div align="center">
+  <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width="50px" style="vertical-align: middle;">Hi, I'm Fernanda Fortes! </h1>
 </div>
 
 ###
@@ -10,11 +17,11 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=NandaChaves&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
-
+-->
 <div align="center">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NandaChaves&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Linguagens mais usadas" />
 </div>
