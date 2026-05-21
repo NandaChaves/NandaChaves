@@ -1,18 +1,21 @@
 name: Metrics
 on:
+  # Executa automaticamente a cada 24 horas
   schedule: [{cron: "0 0 * * *"}]
+  # Permite executar manualmente
   workflow_dispatch:
+  # Executa ao fazer push no master/main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # ISSO É O MAIS IMPORTANTE
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.svg # Define o nome do arquivo
+          # Aqui você escolhe o que quer exibir
           template: classic
           base: header, activity, community, repositories, metadata
           plugin_isocalendar: yes
