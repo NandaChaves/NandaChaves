@@ -3,27 +3,9 @@
 </div>
 
 ###
-- I'm a Full Stack Developer, Graphic Designer, and 3D Enthusiast with a strong passion for Angular, React.js, Node.js, Three.js, REST APIs, and Data Management. I prioritize best practices in every project, focusing on requirements analysis, data validation, security, responsiveness, and immersive design.
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/fernanda-fortes-27781b165/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/3d_fullstack/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-</a>
-<a href="https://buymeacoffee.com/3dfullstack/extras" target="_blank">
-  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="25" alt="Buy Me A Coffee logo" />
-</a>
-<a href="https://www.youtube.com/@FernandaChavis" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" alt="Youtube logo" />
-</a>
-</div>
-
-###
-
+- I'm a Full Stack Developer, Graphic Designer, and 3D Enthusiast with a strong passion for Angular, React.js, Node.js, Three.js, REST APIs, and Data Management. I prioritize best practices in every project, focusing on requirements analysis, data validation, security, responsiveness, and immersive design.🎨
+- 💻 Visit my [Porfolio](https://portfolio3d-ebon.vercel.app/) for more details about me. 
+  
 <h3 align="left">🔥 My Stats :</h3>
 
 ###
@@ -64,7 +46,6 @@
 
 ---
 
-
 ### 🚀 Projetos em Destaque
 
 - **The Kainten Lab** 🎩
@@ -72,12 +53,31 @@
   - Tecnologias: PHP, MYSQL, Jquery, Json .
   - [Link do Repositório](https://kaitenlab2-0.infinityfreeapp.com/?i=1)
 
-- **[Iberolec]** 🐳
-  - Descrição: Site oficial de loja de produtos LED em Madrid.
+- **[Iberolec]** 💡
+  - Descrição: Plataforma responsiva oficial de loja de produtos LED em Madrid.
   - Tecnologias: React.js, Email.js.
   - [Link do Repositório](https://iberolec.com/)
 
 ---
+###
+
+<div align="center">
+  <h3>🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h3>
+  <a href="https://www.linkedin.com/in/fernanda-fortes-27781b165/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/3d_fullstack/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+</a>
+<a href="https://buymeacoffee.com/3dfullstack/extras" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="25" alt="Buy Me A Coffee logo" />
+</a>
+<a href="https://www.youtube.com/@FernandaChavis" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" alt="Youtube logo" />
+</a>
+</div>
+
+###
 
 ### 👾 My GitHub Contribution Pacman
 <picture>
