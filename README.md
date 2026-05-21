@@ -1,13 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <h2>My name is Fernanda Fortes</h2>
-
-<h3 align="left">👩‍💻  About Me</h3>
+<div align="left">
+  <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width="80px" style="vertical-align: middle;"> Fernanda Fortes</h1>
+</div>
 
 ###
-- 🧑‍🏫 Bachelor's in Computer Science
-- 👀 I’m interested in Full stack development and animation 2d, 3d.
-- 🌱 I’m currently learning Docker, Azure Devops, Next.js, Jest. And I also love 3d, so I'm honing my skills in Blender 3D.
-- 💞️ I’m looking to collaborate on Web Development as a FullStack Developer, Frontend developer or as a Software Developer
-
+- I am a Full Stack Developer, Graphic Designer, and 3D Enthusiast with a strong passion for Angular, React.js, Node.js, Three.js, REST APIs, and Data Management. I prioritize best practices in every project, focusing on requirements analysis, data validation, security, responsiveness, and immersive design.
 
 ###
 
@@ -28,7 +24,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
@@ -37,7 +33,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NandaChaves&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Linguagens mais usadas" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NandaChaves&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Linguagens mais usadas" />
 </div>
 
 ###
@@ -45,13 +41,43 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,css,html,js,react,figma,firebase,flask,java,jquery,mysql,nodejs,php,express,docker,ps,ai,py,threejs,ts,vercel,vite,tailwind,vscode,visualstudio,dotnet,bootstrap,blender,angular,canva" />
+    <img src="https://skillicons.dev/icons?i=cs,css,html,js,react,figma,firebase,flask,java,jquery,mysql,nodejs,php,express,docker,ps,ai,py,threejs,ts,vercel,vite,tailwind,vscode,visualstudio,dotnet,bootstrap,blender,angular,git" />
   </a>
-</p>
+</p>-->
 
+###
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Frontend</b><br><img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,tailwind,threejs,vite,bootstrap,jquery" /></td>
+      <td align="center"><b>Backend</b><br><img src="https://skillicons.dev/icons?i=nodejs,mysql,java,php,express,cs,py" /></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Design/3D</b><br><img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator,figma,canva" /></td>
+      <td align="center"><b>DevOps and Tools</b><br><img src="https://skillicons.dev/icons?i=docker,git,vercel,vscode,visualstudio,dotnet" /></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+
+### 🚀 Projetos em Destaque
+
+- **The Kainten Lab** 🎩
+  - Descrição: Plataforma responsiva de gestão para restaurantes, com funcionalidades de CRUD para otimizar o controle de reservas, mesa e funcionários.
+  - Tecnologias: PHP, MYSQL, Jquery, Json .
+  - [Link do Repositório](https://kaitenlab2-0.infinityfreeapp.com/?i=1)
+
+- **[Iberolec]** 🐳
+  - Descrição: Site oficial de loja de produtos LED em Madrid.
+  - Tecnologias: React.js, Email.js.
+  - [Link do Repositório](https://iberolec.com/)
+
+---
 
 ### 👾 My GitHub Contribution Pacman
 <picture>
