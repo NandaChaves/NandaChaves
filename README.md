@@ -7,6 +7,7 @@
 
 <div align="center">
   <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width="50px" style="vertical-align: middle;">Hi, I'm Fernanda Fortes! </h1>
+  <b>FullStack Developer (Mid) |</b> React.js • Angular.js • Javascript • MYSQL • APIs REST • Node.js • Typescript</h3>
 </div>
 
 ###
@@ -71,6 +72,7 @@
 ---
 
 ###
+<!--
 <table align="center" border="0" style="border: none;">
 <tr>
 <td width="40%">
@@ -122,13 +124,12 @@
 </td>
 </tr>
 </table>
-<!--
+-->
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
 
-    <div style="flex: 1; max-width: 45%;">
-        <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/officialcodevoyage/officialcodevoyage/blob/main/github-metrics.svg">
-    </div>
-
+  <div style="flex: 1; max-width: 45%;">
+        <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/NandaChaves/NandaChaves/blob/main/metrics.svg?raw=true">
+  </div>
 
   <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
         <h3>🌐 Let's Connect and Grow Together!</h3>
@@ -150,10 +151,10 @@
         
   <h3>✨ Fun Facts</h3>
         <ul>
-            <li>I love Hackathons, Swimming and Tennis.</li>
-            <li>I’m on a journey to build a big house in Alaska!</li>
-            <li>I enjoy creating content for my YouTube channel, where I share coding tutorials and project walkthroughs.</li>
-            <li>In my free time, I explore the beauty of nature and capture it through my photography on Instagram.</li>
+            <li>I love Cinema, Music and Running</li>
+            <li>I’m on a journey to build 3D Projects!</li>
+            <li>I enjoy creating content for my YouTube channel, where I share coding tutorials, history and cinema.</li>
+            <li>In my free time, I explore historical curiosities that I didn't learn in school, like great videos on Instagram, and I also share my experience living in Portugal.</li>
         </ul>
         
   <h3>🧑‍💻 About Me</h3>
@@ -163,4 +164,4 @@
         </p>
     </div>
 </div>
--->
+
