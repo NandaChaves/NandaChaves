@@ -7,7 +7,7 @@
 
 <div align="center">
   <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width="50px" style="vertical-align: middle;">Hi, I'm Fernanda Fortes! </h1>
-  <b>FullStack Developer (Mid) |</b> React.js • Angular.js • Javascript • MYSQL • APIs REST • Node.js • Typescript</h3>
+  <h3><b>FullStack Developer (Mid) |</b> React.js • Angular.js • Javascript • MYSQL • APIs REST • Node.js • Typescript</h3>
 </div>
 
 ###
@@ -63,10 +63,13 @@
 
 ### 🚀 Projetos em Destaque
 
-- **[The Kainten Lab](https://kaitenlab2-0.infinityfreeapp.com/?i=1)** 🎩
-  - Description: Responsive management platform for restaurants, with CRUD functionalities to optimize the control of reservations, tables, and staff. <b>[Tecs </b>]: PHP, MYSQL, Jquery, Json
+- **[The Kainten Lab](https://kaitenlab2-0.infinityfreeapp.com/?i=1)** 🎩‧₊˚ ⋅ 🥢🍜‧₊˚ ⋅
+  - Description: Responsive management clone platform for restaurants, with CRUD functionalities to optimize the control of reservations, tables, and staff. <b>[Tecs </b>]: PHP, MYSQL, Jquery, Json
 
-- **[Iberolec](https://iberolec.com/)** 💡
+- **[ADVANCE - Lighting & Electrical Distributors ](https://advancelighting.pt/)** 💡🔦🔋🔌
+  - Description: A digital platform focused on the distribution and sale of professional LED lighting solutions and electrical materials. <b>[Tecs </b>]: React.js, MYSQL, PHP, Node.js, Figma, Canva.
+  - 
+- **[Iberolec](https://iberolec.com/)** 💡𖣤📱💃🏻
   - Description: Official responsive platform for an LED product store in Madrid. <b>[Tecs </b>]: React.js, Email.js.
 
 ---
