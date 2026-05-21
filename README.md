@@ -49,10 +49,10 @@
 ### 🚀 Projetos em Destaque
 
 - **[The Kainten Lab](https://kaitenlab2-0.infinityfreeapp.com/?i=1)** 🎩
-  - Descrição: Plataforma responsiva de gestão para restaurantes, com funcionalidades de CRUD para otimizar o controle de reservas, mesa e funcionários. <b>Tecnologias </b>: PHP, MYSQL, Jquery, Json
+  - Description: Responsive management platform for restaurants, with CRUD functionalities to optimize the control of reservations, tables, and staff. <b>[Tecs </b>]: PHP, MYSQL, Jquery, Json
 
 - **[Iberolec](https://iberolec.com/)** 💡
-  - Descrição: Plataforma responsiva oficial de loja de produtos LED em Madrid. <b>Tecnologias </b>: React.js, Email.js.
+  - Description: Official responsive platform for an LED product store in Madrid. <b>[Tecs </b>]: React.js, Email.js.
 
 ---
 ###
