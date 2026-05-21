@@ -127,7 +127,7 @@
 -->
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
 
-  <div style="flex: 1; max-width: 45%;">
+  <div style="flex: 1; max-width: 50%;">
         <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/NandaChaves/NandaChaves/blob/main/metrics.svg?raw=true">
   </div>
 
