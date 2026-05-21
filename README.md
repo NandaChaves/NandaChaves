@@ -1,9 +1,9 @@
 <div align="left">
-  <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width="80px" style="vertical-align: middle;"> Fernanda Fortes</h1>
+  <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width="50px" style="vertical-align: middle;"> Fernanda Fortes</h1>
 </div>
 
 ###
-- I am a Full Stack Developer, Graphic Designer, and 3D Enthusiast with a strong passion for Angular, React.js, Node.js, Three.js, REST APIs, and Data Management. I prioritize best practices in every project, focusing on requirements analysis, data validation, security, responsiveness, and immersive design.
+- I'm a Full Stack Developer, Graphic Designer, and 3D Enthusiast with a strong passion for Angular, React.js, Node.js, Three.js, REST APIs, and Data Management. I prioritize best practices in every project, focusing on requirements analysis, data validation, security, responsiveness, and immersive design.
 
 ###
 
