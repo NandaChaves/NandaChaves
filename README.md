@@ -122,3 +122,45 @@
 </td>
 </tr>
 </table>
+<!--
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
+
+    <div style="flex: 1; max-width: 45%;">
+        <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/officialcodevoyage/officialcodevoyage/blob/main/github-metrics.svg">
+    </div>
+
+
+  <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
+        <h3>🌐 Let's Connect and Grow Together!</h3>
+        <p>
+            <a href="https://www.linkedin.com/in/mrbondarenko/" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn">
+            </a>
+            </a>
+            <a href="https://www.youtube.com/@OfficialCodeVoyage" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+            </a>
+            <a href="https://www.instagram.com/pasha.369.bond/" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram">
+            </a>
+              <a href="https://www.instagram.com/pasha.369.bond/" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram">
+            </a>
+        </p>
+        
+  <h3>✨ Fun Facts</h3>
+        <ul>
+            <li>I love Hackathons, Swimming and Tennis.</li>
+            <li>I’m on a journey to build a big house in Alaska!</li>
+            <li>I enjoy creating content for my YouTube channel, where I share coding tutorials and project walkthroughs.</li>
+            <li>In my free time, I explore the beauty of nature and capture it through my photography on Instagram.</li>
+        </ul>
+        
+  <h3>🧑‍💻 About Me</h3>
+        <p>
+          I'm a Full Stack Developer, Graphic Designer, and 3D Enthusiast with a strong passion for frameworks and libraries as Angular, React.js, Node.js, Three.js, REST APIs, and Data Management.
+          I prioritize best practices in every project, focusing on requirements    analysis, data validation, security, responsiveness, and immersive design
+        </p>
+    </div>
+</div>
+-->
