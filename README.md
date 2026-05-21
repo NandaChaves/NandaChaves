@@ -125,14 +125,14 @@
 </tr>
 </table>
 -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 10px;">
 
-  <div style="flex: 1; max-width: 50%;">
+  <div style="flex: 1; width: 50%;">
         <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/NandaChaves/NandaChaves/blob/main/metrics.svg?raw=true">
   </div>
 
-  <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
-        <h3>🌐 Let's Connect and Grow Together!</h3>
+  <div style="flex: 1; width: 50%; text-align: left; margin-left: 10px;">
+        <h3>🌎 Let's Connect and Grow Together!</h3>
         <p>
             <a href="https://www.linkedin.com/in/fernanda-fortes-27781b165/" target="_blank" style="text-decoration: none;">
                 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn">
