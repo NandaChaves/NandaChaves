@@ -13,7 +13,6 @@
 <h3><b>FullStack Developer (Mid) |</b> React.js • Angular.js • Javascript • MYSQL • APIs REST • Node.js • Typescript</h3>
 <p>I'm a Full Stack Developer, Graphic Designer, and 3D Enthusiast with a strong passion for frameworks and libraries as Angular, React.js, Node.js, Three.js, REST APIs, and Data Management. I prioritize best practices in every project, focusing on requirements analysis, data validation, security, responsiveness, and immersive design.</p> 
 
-- **💻 ⚛️ Visit my [Portfolio](https://kaitenlab2-0.infinityfreeapp.com/?i=1) for more details about me. **
 <h3 align="left">🔥 My Stats :</h3>
 
 ###
