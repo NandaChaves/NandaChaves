@@ -145,7 +145,7 @@
                 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram">
             </a>
               <a href="https://buymeacoffee.com/3dfullstack/extras" target="_blank" style="text-decoration: none;">
-                <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee logo">
+                <img src="https://img.shields.io/static/v1?message=Buymeacoffee&logo=buymeacoffee&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" alt="Buy Me A Coffee logo">
             </a>
         </p>
         
