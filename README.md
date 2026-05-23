@@ -68,19 +68,20 @@
   - 📝Description: Responsive management clone platform for restaurants, with CRUD functionalities to optimize the control of reservations, tables, and staff. <b>[Tecs </b>]: PHP, MYSQL, Jquery, Json
   - 🔍Problem: The original design created friction in the user journey, with external redirects (Google Maps) that caused users to leave the site and a lack of visual clarity in the menus.
   - 💡The Solution: I redesigned the interface with a focus on user retention. I implemented dynamic hover states for dishes (to increase interactivity), added clear “reservation required” notices to the checkout process, and embedded the map directly into the footer.
-      ⚙️⚙️No backend, desenvolvi um sistema administrativo robusto para alocar automaticamente a mesa ideal conforme o número de pessoas ao confirmar uma reserva, analizar a porcentagem de ocupação diária em tempo real.
+    ⚙️⚙️On the backend, I developed a robust administrative system to automatically assign the best table based on the number of guests when a reservation is confirmed, and to analyze daily occupancy rates in real time.
  
     
 - **[ADVANCE - Lighting & Electrical Distributors ](https://advancelighting.pt/)** 💡🔦🔋🔌
-  - 📝Description: A digital platform focused on the distribution and sale of professional LED lighting solutions and electrical materials. <b>[Tecs </b>]: React.js, MYSQL, PHP, Node.js, Figma, Canva.
+  - 📝Description: A digital platform focused on the distribution and sale of professional LED lighting solutions and electrical materials.
   - 🔍Problem: The previous version(Wordpress) was static and lacked visually appeling fratures, making it difficult to quickly locate specific products in a technical catalog.
-  - 💡The Solution: Architecture and development of a comprehensive platform focused on user experience (UX) and conversion. The project delivers an intuitive system featuring multilingual support, centralized management of technicak catalogs, optimized contact forms and navigation organized by sector(Home Automation, Industrial Lighting, among others). 
+  - 💡The Solution: I migrated the site to a more high-performance architecture, focusing on an immersive visual experience. I developed an advanced filtering to speed up customer searches and restructured the content to make it more informative and persuasive.
+  - 💻[Tecs]: React.js, MYSQL, PHP, Node.js, Figma, Canva.
     
 - **[Iberolec](https://iberolec.com/)** 💡𖣤📱💃🏻
-  - 📝Description: Official responsive platform for an LED product store in Madrid. <b>[Tecs </b>]: React.js, Email.js.
+  - 📝Description: Official responsive platform for an LED product store in Madrid.
   - 🔍Problem: The need to build, from the ground up, a robust digital presence for the Madrid market would serve as a strategic arm of Advance Lighting, conveying professionalism and technical expertise.
   - 💡The Solution: Architecture and development of a comprehensive platform focused on user experience (UX) and conversion. The project delivers an intuitive system featuring multilingual support, centralized management of technicak catalogs, optimized contact forms and navigation organized by sector(Home Automation, Industrial Lighting, among others). 
-  - 📝[Techs]: React.js, Email.js.
+  - 💻[Techs]: React.js, Email.js.
 
 ---
 
