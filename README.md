@@ -8,7 +8,7 @@
 <div align="center">
   <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width="50px" style="vertical-align: middle;">Hi, I'm Fernanda Fortes! </h1>
   <h3>Full-stack developer specializing in intuitive and immersive web interfaces. I turn business requirements into high-performance solutions, optimizing the user experience and facilitating decision-making. I prioritize scalability and user-centered design in every line of code.</h3>
-  <h4><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/3aae27e0-414e-4d43-ac2d-e805b5abf18c" /> (Mid-Level) | React.js • Angular.js • Javascript • MYSQL • APIs REST • Node.js • Typescript</h4>
+  <h4><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/3aae27e0-414e-4d43-ac2d-e805b5abf18c" /> (Mid-Level) | React.js • Angular.js • Javascript • MYSQL • APIs REST • Node.js • Typescript</h4>
 </div>
 
 ###
