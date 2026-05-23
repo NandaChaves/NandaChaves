@@ -7,7 +7,8 @@
 
 <div align="center">
   <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width="50px" style="vertical-align: middle;">Hi, I'm Fernanda Fortes! </h1>
-  <h3><b>FullStack Developer (Mid) |</b> React.js • Angular.js • Javascript • MYSQL • APIs REST • Node.js • Typescript</h3>
+  <h2>Full-Stack Developer focused on transforming complex business requirements into intuitive and immersive web interfaces. My specialty is creating solutions that not only work but also optimize the user experience, facilitating agile decision-making through well-structured data. I believe that technology should serve the business—which is why I prioritize performance, scalability, and user-centered design in every line of code.</h2>
+  <h3><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/3aae27e0-414e-4d43-ac2d-e805b5abf18c" /> (Mid-Level) | React.js • Angular.js • Javascript • MYSQL • APIs REST • Node.js • Typescript</h3>
 </div>
 
 ###
@@ -64,13 +65,23 @@
 ### 🚀 Projetos em Destaque
 
 - **[The Kainten Lab](https://kaitenlab2-0.infinityfreeapp.com/?i=1)** 🎩‧₊˚ ⋅ 🥢🍜‧₊˚ ⋅
-  - Description: Responsive management clone platform for restaurants, with CRUD functionalities to optimize the control of reservations, tables, and staff. <b>[Tecs </b>]: PHP, MYSQL, Jquery, Json
-
+  - 📝Description: Responsive management clone platform for restaurants, with CRUD functionalities to optimize the control of reservations, tables, and staff. <b>[Tecs </b>]: PHP, MYSQL, Jquery, Json
+  - 🔍Problem: The original design created friction in the user journey, with external redirects (Google Maps) that caused users to leave the site and a lack of visual clarity in the menus.
+  - 💡The Solution: I redesigned the interface with a focus on user retention. I implemented dynamic hover states for dishes (to increase interactivity), added clear “reservation required” notices to the checkout process, and embedded the map directly into the footer.
+      ⚙️⚙️No backend, desenvolvi um sistema administrativo robusto para alocar automaticamente a mesa ideal conforme o número de pessoas ao confirmar uma reserva, analizar a porcentagem de ocupação diária em tempo real.
+ 
+    
 - **[ADVANCE - Lighting & Electrical Distributors ](https://advancelighting.pt/)** 💡🔦🔋🔌
-  - Description: A digital platform focused on the distribution and sale of professional LED lighting solutions and electrical materials. <b>[Tecs </b>]: React.js, MYSQL, PHP, Node.js, Figma, Canva.
-  - 
+  - 📝Description: A digital platform focused on the distribution and sale of professional LED lighting solutions and electrical materials. <b>[Tecs </b>]: React.js, MYSQL, PHP, Node.js, Figma, Canva.
+  - 🔍Problem: The previous version(Wordpress) was static and lacked visually appeling fratures, making it difficult to quickly locate specific products in a technical catalog.
+  - 💡The Solution: Architecture and development of a comprehensive platform focused on user experience (UX) and conversion. The project delivers an intuitive system featuring multilingual support, centralized management of technicak catalogs, optimized contact forms and navigation organized by sector(Home Automation, Industrial Lighting, among others). 
+    
 - **[Iberolec](https://iberolec.com/)** 💡𖣤📱💃🏻
-  - Description: Official responsive platform for an LED product store in Madrid. <b>[Tecs </b>]: React.js, Email.js.
+  - 📝Description: Official responsive platform for an LED product store in Madrid. <b>[Tecs </b>]: React.js, Email.js.
+  - 🔍Problem: The need to build, from the ground up, a robust digital presence for the Madrid market would serve as a strategic arm of Advance Lighting, conveying professionalism and technical expertise.
+  - 💡The Solution: Architecture and development of a comprehensive platform focused on user experience (UX) and conversion. The project delivers an intuitive system featuring multilingual support, centralized management of technicak catalogs, optimized contact forms and navigation organized by sector(Home Automation, Industrial Lighting, among others). 
+      ⚙️⚙️No backend, desenvolvi um sistema administrativo robusto para alocar automaticamente a mesa ideal conforme o número de pessoas ao confirmar uma reserva, analizar a porcentagem de ocupação diária em tempo real.
+  - 📝[Techs]: React.js, Email.js.
 
 ---
 
