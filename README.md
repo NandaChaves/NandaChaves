@@ -168,7 +168,6 @@
             <li>I love Cinema, Music and Running</li>
             <li>I’m on a journey to build 3D Projects!</li>
             <li>I enjoy creating content for my YouTube channel, where I share coding tutorials, history and cinema.</li>
-            <li>In my free time, I explore historical curiosities that I didn't learn in school, like great videos on Instagram, and I also share my experience living in Portugal.</li>
         </ul>
         
   <h3>💡⚛️🎨 My Work Approach </h3>
