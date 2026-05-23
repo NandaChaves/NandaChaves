@@ -62,7 +62,7 @@
 </picture>
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Featured Projects
 
 - **[The Kainten Lab](https://kaitenlab2-0.infinityfreeapp.com/?i=1)** 🎩‧₊˚ ⋅ 🥢🍜‧₊˚ ⋅
   - 📝Description: Responsive management clone platform for restaurants, with CRUD functionalities to optimize the control of reservations, tables, and staff.
