@@ -7,7 +7,7 @@
 
 <div align="center">
   <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width="50px" style="vertical-align: middle;">Hi, I'm Fernanda Fortes! </h1>
-  <h2>Full-Stack Developer focused on transforming complex business requirements into intuitive and immersive web interfaces. My specialty is creating solutions that not only work but also optimize the user experience, facilitating agile decision-making through well-structured data. I believe that technology should serve the business—which is why I prioritize performance, scalability, and user-centered design in every line of code.</h2>
+  <h3>Full-Stack Developer focused on transforming complex business requirements into intuitive and immersive web interfaces. My specialty is creating solutions that not only work but also optimize the user experience, facilitating agile decision-making through well-structured data. I believe that technology should serve the business—which is why I prioritize performance, scalability, and user-centered design in every line of code.</h3>
   <h3><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/3aae27e0-414e-4d43-ac2d-e805b5abf18c" /> (Mid-Level) | React.js • Angular.js • Javascript • MYSQL • APIs REST • Node.js • Typescript</h3>
 </div>
 
@@ -44,8 +44,8 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>Frontend</b><br><img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,tailwind,threejs,vite,bootstrap,jquery" /></td>
-      <td align="center"><b>Backend</b><br><img src="https://skillicons.dev/icons?i=nodejs,mysql,java,php,express,cs,py" /></td>
+      <td align="center"><b>Frontend</b><br><img src="https://skillicons.dev/icons?i=react,angular,js,ts,tailwind,threejs,vite,bootstrap,jquery" /></td>
+      <td align="center"><b>Backend</b><br><img src="https://skillicons.dev/icons?i=nodejs,mysql,php,express,cs" /></td>
     </tr>
     <tr>
       <td align="center"><b>Design/3D</b><br><img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator,figma,canva" /></td>
@@ -170,6 +170,11 @@
             <li>I enjoy creating content for my YouTube channel, where I share coding tutorials, history and cinema.</li>
             <li>In my free time, I explore historical curiosities that I didn't learn in school, like great videos on Instagram, and I also share my experience living in Portugal.</li>
         </ul>
+        
+  <h3>🧑‍💻 My Work Approach </h3>
+        <p>
+          As a full-stack developer with a strong focus on design and 3D, my work goes beyond just code. I use tools like Figma, Blender, and the Adobe suite to ensure that the interfaces I develop have a unique visual appeal, guaranteeing that the final product is both technically sound and aesthetically engaging.
+        </p> 
         
   <h3>🧑‍💻 About Me</h3>
         <p>
