@@ -69,7 +69,7 @@
   - 🔍Problem: The original design created friction in the user journey, with external redirects (Google Maps) that caused users to leave the site and a lack of visual clarity in the menus.
   - 💡The Solution: I redesigned the interface with a focus on user retention. I implemented dynamic hover states for dishes (to increase interactivity), added clear “reservation required” notices to the checkout process, and embedded the map directly into the footer.
     ⚙️⚙️On the backend, I developed a robust administrative system to automatically assign the best table based on the number of guests when a reservation is confirmed, and to analyze daily occupancy rates in real time.
- 
+   - 💻[Tecs]: PHP, MySQL, jQuery, JSON.
     
 - **[ADVANCE - Lighting & Electrical Distributors ](https://advancelighting.pt/)** 💡🔦🔋🔌
   - 📝Description: A digital platform focused on the distribution and sale of professional LED lighting solutions and electrical materials.
