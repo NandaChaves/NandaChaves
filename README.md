@@ -65,7 +65,7 @@
 ### 🚀 Projetos em Destaque
 
 - **[The Kainten Lab](https://kaitenlab2-0.infinityfreeapp.com/?i=1)** 🎩‧₊˚ ⋅ 🥢🍜‧₊˚ ⋅
-  - 📝Description: Responsive management clone platform for restaurants, with CRUD functionalities to optimize the control of reservations, tables, and staff. <b>[Tecs </b>]: PHP, MYSQL, Jquery, Json
+  - 📝Description: Responsive management clone platform for restaurants, with CRUD functionalities to optimize the control of reservations, tables, and staff.
   - 🔍Problem: The original design created friction in the user journey, with external redirects (Google Maps) that caused users to leave the site and a lack of visual clarity in the menus.
   - 💡The Solution: I migrated the site to a more high-performance architecture, focusing on an immersive visual experience. I implemented dynamic hover states for dishes (to enhance interactivity), added clear “reservation required” notices to the checkout process, and embedded the map directly into the footer.
     ⚙️⚙️On the backend, I developed a robust administrative system to automatically assign the ideal table based on the number of people (e.g., a reservation for 5 people is automatically assigned to Table 3, which has that capacity),responsive lists of reservations, tables, and staff for different device sizes and to analyze daily occupancy rates in real time.
