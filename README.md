@@ -80,7 +80,6 @@
   - 📝Description: Official responsive platform for an LED product store in Madrid. <b>[Tecs </b>]: React.js, Email.js.
   - 🔍Problem: The need to build, from the ground up, a robust digital presence for the Madrid market would serve as a strategic arm of Advance Lighting, conveying professionalism and technical expertise.
   - 💡The Solution: Architecture and development of a comprehensive platform focused on user experience (UX) and conversion. The project delivers an intuitive system featuring multilingual support, centralized management of technicak catalogs, optimized contact forms and navigation organized by sector(Home Automation, Industrial Lighting, among others). 
-      ⚙️⚙️No backend, desenvolvi um sistema administrativo robusto para alocar automaticamente a mesa ideal conforme o número de pessoas ao confirmar uma reserva, analizar a porcentagem de ocupação diária em tempo real.
   - 📝[Techs]: React.js, Email.js.
 
 ---
@@ -171,7 +170,7 @@
             <li>In my free time, I explore historical curiosities that I didn't learn in school, like great videos on Instagram, and I also share my experience living in Portugal.</li>
         </ul>
         
-  <h3>🧑‍💻 My Work Approach </h3>
+  <h3>🧑‍💻💡 My Work Approach </h3>
         <p>
           As a full-stack developer with a strong focus on design and 3D, my work goes beyond just code. I use tools like Figma, Blender, and the Adobe suite to ensure that the interfaces I develop have a unique visual appeal, guaranteeing that the final product is both technically sound and aesthetically engaging.
         </p> 
