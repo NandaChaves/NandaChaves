@@ -7,7 +7,7 @@
 
 <div align="center">
   <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  width="50px" style="vertical-align: middle;">Hi, I'm Fernanda Fortes! </h1>
-  <h3>Full-Stack Developer focused on transforming complex business requirements into intuitive and immersive web interfaces. My specialty is creating solutions that not only work but also optimize the user experience, facilitating agile decision-making through well-structured data. I believe that technology should serve the business—which is why I prioritize performance, scalability, and user-centered design in every line of code.</h3>
+  <h3>Full-stack developer specializing in intuitive and immersive web interfaces. I turn business requirements into high-performance solutions, optimizing the user experience and facilitating decision-making. I prioritize scalability and user-centered design in every line of code.</h3>
   <h4><img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/3aae27e0-414e-4d43-ac2d-e805b5abf18c" /> (Mid-Level) | React.js • Angular.js • Javascript • MYSQL • APIs REST • Node.js • Typescript</h4>
 </div>
 
@@ -67,8 +67,7 @@
 - **[The Kainten Lab](https://kaitenlab2-0.infinityfreeapp.com/?i=1)** 🎩‧₊˚ ⋅ 🥢🍜‧₊˚ ⋅
   - 📝Description: Responsive management clone platform for restaurants, with CRUD functionalities to optimize the control of reservations, tables, and staff.
   - 🔍Problem: The original design created friction in the user journey, with external redirects (Google Maps) that caused users to leave the site and a lack of visual clarity in the menus.
-  - 💡The Solution: I migrated the site to a more high-performance architecture, focusing on an immersive visual experience. I implemented dynamic hover states for dishes (to enhance interactivity), added clear “reservation required” notices to the checkout process, and embedded the map directly into the footer.
-    ⚙️⚙️On the backend, I developed a robust administrative system to automatically assign the ideal table based on the number of people (e.g., a reservation for 5 people is automatically assigned to Table 3, which has that capacity),responsive lists of reservations, tables, and staff for different device sizes and to analyze daily occupancy rates in real time.
+  - 💡The Solution: I migrated the website to a high-performance architecture designed to deliver an immersive experience. I refined the booking process with dynamic hover states, native map integration, and clear workflow notifications.  <br>⚙️⚙️On the backend, I implemented a robust management system featuring automatic table assignment based on capacity, real-time occupancy dashboards, and responsive schedules for staff management.
    - 💻[Tecs]: PHP, MySQL, jQuery, JSON.
     
 - **[ADVANCE - Lighting & Electrical Distributors ](https://advancelighting.pt/)** 💡🔦🔋🔌
