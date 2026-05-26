@@ -60,6 +60,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NandaChaves/NandaChaves/output/pacman-contribution-graph.svg">
   <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/NandaChaves/NandaChaves/output/pacman-contribution-graph.svg">
 </picture>
+
 ---
 
 ### 🚀 Featured Projects
