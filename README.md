@@ -158,8 +158,8 @@
             <a href="https://www.instagram.com/3d_fullstack/" target="_blank" style="text-decoration: none;">
                 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram">
             </a>
-              <a href="https://buymeacoffee.com/3dfullstack/extras" target="_blank" style="text-decoration: none;">
-                <img src="https://img.shields.io/static/v1?message=Buymeacoffee&logo=buymeacoffee&label=&color=orange&logoColor=white&labelColor=&style=for-the-badge" alt="Buy Me A Coffee logo">
+              <a href="https://www.cgtrader.com/profile/models" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/static/v1?message=CGTrader&logo=&label=&color=1da2b4&labelColor=&style=for-the-badge" alt="CG Trader">
             </a>
         </p>
         
