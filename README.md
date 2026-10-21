@@ -152,8 +152,8 @@
                 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn">
             </a>
             </a>
-            <a href="https://www.youtube.com/@FernandaChavis" target="_blank" style="text-decoration: none;">
-                <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+            <a href="https://fullstack3d.artstation.com/" target="_blank" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/artstation-313131?style=for-the-badge&logo=artstation&logoColor=13AFF0" alt="YouTube">
             </a>
             <a href="https://www.instagram.com/3d_fullstack/" target="_blank" style="text-decoration: none;">
                 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Instagram">
@@ -167,7 +167,7 @@
         <ul>
             <li>I love Cinema, Music and Running</li>
             <li>I’m on a journey to build 3D Projects!</li>
-            <li>I enjoy creating content for my YouTube channel, where I share coding tutorials, history and cinema.</li>
+            <li>I enjoy creating content for my Instagram channel, where I share coding tutorials and 3d projects</li>
         </ul>
         
   <h3>💡⚛️🎨 My Work Approach </h3>
